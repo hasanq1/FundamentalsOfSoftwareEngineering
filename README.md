@@ -1,23 +1,7 @@
-# Node.js & Passport Login
+# Node.js with MongoDB (MERNAPP)
 
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
-
-### Version: 2.0.0
-
-### Usage
-
-```sh
-$ npm install
-```
-
-```sh
+This is a user login and registration app using MERN.
 $ npm start
-# Or run with Nodemon
-$ npm run dev
 
-# Visit http://localhost:5000
-```
+# localhost:5001
 
-### MongoDB
-
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
